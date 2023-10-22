@@ -1,0 +1,13 @@
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\bin\Debug\PServer.exe.config
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\bin\Debug\PServer.exe
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\bin\Debug\PServer.pdb
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\obj\Debug\PServer.csproj.AssemblyReference.cache
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\obj\Debug\PServer.csproj.SuggestedBindingRedirects.cache
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\obj\Debug\PServer.Form1.resources
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\obj\Debug\PServer.Properties.Resources.resources
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\obj\Debug\PServer.csproj.GenerateResource.cache
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\obj\Debug\PServer.csproj.CoreCompileInputs.cache
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\obj\Debug\PServer.exe
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\obj\Debug\PServer.pdb
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\bin\Debug\SimpleTCP.dll
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PServer\obj\Debug\PServer.csproj.CopyComplete

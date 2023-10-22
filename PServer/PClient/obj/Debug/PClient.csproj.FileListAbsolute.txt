@@ -1,0 +1,13 @@
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\bin\Debug\PClient.exe.config
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\bin\Debug\PClient.exe
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\bin\Debug\PClient.pdb
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\bin\Debug\SimpleTCP.dll
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\obj\Debug\PClient.csproj.AssemblyReference.cache
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\obj\Debug\PClient.csproj.SuggestedBindingRedirects.cache
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\obj\Debug\PClient.Form1.resources
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\obj\Debug\PClient.Properties.Resources.resources
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\obj\Debug\PClient.csproj.GenerateResource.cache
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\obj\Debug\PClient.csproj.CoreCompileInputs.cache
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\obj\Debug\PClient.csproj.CopyComplete
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\obj\Debug\PClient.exe
+D:\Ders\ödev\Microprocessors\Proje\proje_C#form\PServer\PClient\obj\Debug\PClient.pdb
